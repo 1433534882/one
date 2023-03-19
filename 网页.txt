@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>网页</title>
+</head>
+<body style="background-color:yellow">
+<h1 style="color:red"><center>我的网页</center></h1>
+<h2>臭：</h2>
+<ul>
+<li><p style="color:blue">114514</p></li>
+<hr />
+<li><p style="color:blue">114514</p></li>
+<hr />
+<li><p style="color:blue">114514</p></li>
+</body>
+<hr / style="font-size:center">
+<body style="backgroung-color:write">
+<div>
+<h2>臭死了</h2>
+<p>114514114514114514114514114514114514114514114514114514114514114514114514114514114514114514114514114514114514114514114514114514114514</p>
+</div>
+<h2 style="font-size:center">依旧很臭</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
